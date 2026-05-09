@@ -45,7 +45,7 @@ This scaffolding encodes those four needs as a small set of Markdown files. Mark
 
 ## How to use this scaffolding
 
-1. Clone the repository (or copy the structure into your own).
+1. Get the scaffolding — either clone the repository, copy the structure into your own, or **download the latest [release](https://github.com/Search-Foundry/vibecoding-scaffolding/releases/latest) archive and unzip it on your computer**.
 2. Duplicate `projects/Project1/` and rename the copy to your project name.
 3. Open `planning/plan.md` and fill in sections **1**, **2**, **3** (the human-owned parts).
 4. Ask your AI agent to read `agents.md` and `planning/plan.md`, then to expand section **4** (Implementation plan) and ask any open questions.
