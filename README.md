@@ -58,6 +58,6 @@ The two `agents.md` files at the root and inside `projects/` are not documentati
 
 ## Credits
 
-Method inspired by *Vibe Coding Consapevole — CAP 2*.
+Method inspired by *[Vibe Coding Consapevole — CAP 2](https://www.youtube.com/watch?v=l3VEUK3QHAk)*.
 
 Created by [Andrea Scarpetta](https://andreascarpetta.it), part of the [Search Foundry](https://www.searchfoundry.pro) group.
